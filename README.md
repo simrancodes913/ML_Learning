@@ -1,9 +1,31 @@
-# ML_Learning
-Documenting my machine learning journey through hands-on projects on real datasets. Includes experimentation, model improvements, and key insights gained at each step.
-## What you'll find here:
-- Data preprocessing techniques
-- Model building and evaluation
-- Experimentation and improvements
-- Insights from each project
-## Goal
-To build strong fundamentals in machine learning through consistent practice.
+# 🧠 Mental Health in Tech - ML Project
+
+## 📌 Problem Statement
+Predict whether a tech employee seeks mental health treatment based on workplace and personal factors.
+
+## 📊 Dataset
+OSMI Mental Health in Tech Survey Dataset
+
+## ⚙️ Workflow
+- Data Cleaning
+- Feature Encoding
+- Model Training (Decision Tree, Random Forest)
+- Model Evaluation
+
+## 🤖 Models Used
+- Decision Tree Classifier → 84% accuracy
+- Random Forest Classifier → 80% accuracy
+
+## 📈 Key Insights
+- Decision Tree outperformed Random Forest → simple decision patterns
+
+## 🧠 Learnings
+- Importance of preprocessing
+- Model comparison
+- Avoiding overfitting
+- Feature importance analysis
+
+## 🚀 Future Improvements
+- Hyperparameter tuning
+- Try XGBoost
+- Deploy using Streamlit
