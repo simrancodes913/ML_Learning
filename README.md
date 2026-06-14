@@ -1,31 +1,43 @@
-# 🧠 Mental Health in Tech - ML Project
+# Machine Learning Repository
 
-## 📌 Problem Statement
-Predict whether a tech employee seeks mental health treatment based on workplace and personal factors.
+Welcome to my Machine Learning repository.
 
-## 📊 Dataset
-OSMI Mental Health in Tech Survey Dataset
+This repository contains my hands-on implementations, experiments, and projects as I learn Machine Learning and Deep Learning concepts. The purpose of this repository is to document my learning journey through practical coding and real-world datasets.
 
-## ⚙️ Workflow
-- Data Cleaning
-- Feature Encoding
-- Model Training (Decision Tree, Random Forest)
-- Model Evaluation
+## Topics Explored
 
-## 🤖 Models Used
-- Decision Tree Classifier → 84% accuracy
-- Random Forest Classifier → 80% accuracy
+* Python for Machine Learning
+* Data Preprocessing
+* Data Visualization
+* Machine Learning Fundamentals
+* Artificial Neural Networks (ANN)
+* Convolutional Neural Networks (CNN)
+* TensorFlow & Keras
 
-## 📈 Key Insights
-- Decision Tree outperformed Random Forest → simple decision patterns
+## Projects
 
-## 🧠 Learnings
-- Importance of preprocessing
-- Model comparison
-- Avoiding overfitting
-- Feature importance analysis
+### Mental Health in Tech
 
-## 🚀 Future Improvements
-- Hyperparameter tuning
-- Try XGBoost
-- Deploy using Streamlit
+A machine learning project focused on predicting whether a tech employee seeks mental health treatment based on workplace and personal factors.
+
+### MNIST Digit Classification Using LeNet
+
+Implementation of the classic LeNet Convolutional Neural Network for handwritten digit recognition using the MNIST dataset.
+
+## Repository Goal
+
+The goal of this repository is to strengthen my understanding of Machine Learning and Deep Learning through consistent practice, experimentation, and project-based learning.
+
+## Tools & Libraries
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* TensorFlow
+* Keras
+
+---
+
+Learning by building, experimenting, and improving one project at a time.
